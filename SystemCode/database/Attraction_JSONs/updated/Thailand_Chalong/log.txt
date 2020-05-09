@@ -1,0 +1,1 @@
+Attractions.json created with offset 0 to 8 (entries 0 to 239) at Mon May  4 12:29:43 2020.

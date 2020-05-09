@@ -1,0 +1,4473 @@
+[
+    {
+        "location_id": "4435966",
+        "name": "Southeast Botanical Gardens",
+        "latitude": "26.376007",
+        "longitude": "127.80655",
+        "num_reviews": "221",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/15/26/86/ac/caption.jpg",
+                    "height": "141"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/15/26/86/ac/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/15/26/86/ac/caption.jpg",
+                    "height": "720"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/15/26/86/ac/caption.jpg",
+                    "height": "576"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/15/26/86/ac/caption.jpg",
+                    "height": "309"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2018-10-25T03:50:21-0400",
+            "caption": "",
+            "id": "354846380",
+            "helpful_votes": "0",
+            "published_date": "2018-10-25T03:50:21-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2019",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2019"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2018",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2018"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2017",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2017"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2016",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2016"
+            }
+        ],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "3.8843414783477783",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "1",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#1 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#1 of 24 things to do in Okinawa City",
+        "ranking": "#1 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "Welcome To Southeast Botanical Gardens !we Hope Have A Great Healing Day.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d4435966-Reviews-Southeast_Botanical_Gardens-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d4435966-Southeast_Botanical_Gardens-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "52",
+                "name": "Water & Amusement Parks"
+            },
+            {
+                "key": "57",
+                "name": "Nature & Parks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-939-2555",
+        "website": "http://www.southeast-botanical.jp",
+        "email": "media@southeast-botanical.jp",
+        "address_obj": {
+            "street1": "2146 Chibana",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-2143"
+        },
+        "address": "2146 Chibana, Okinawa City 904-2143 Okinawa Prefecture",
+        "hours": {
+            "week_ranges": [
+                [
+                    {
+                        "open_time": 540,
+                        "close_time": 1260
+                    }
+                ],
+                [
+                    {
+                        "open_time": 540,
+                        "close_time": 1080
+                    }
+                ],
+                [
+                    {
+                        "open_time": 540,
+                        "close_time": 1080
+                    }
+                ],
+                [
+                    {
+                        "open_time": 540,
+                        "close_time": 1080
+                    }
+                ],
+                [
+                    {
+                        "open_time": 540,
+                        "close_time": 1080
+                    }
+                ],
+                [
+                    {
+                        "open_time": 540,
+                        "close_time": 1080
+                    }
+                ],
+                [
+                    {
+                        "open_time": 540,
+                        "close_time": 1260
+                    }
+                ]
+            ],
+            "timezone": "Asia/Tokyo"
+        },
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "58",
+                "name": "Gardens"
+            },
+            {
+                "key": "98",
+                "name": "Theme Parks"
+            }
+        ],
+        "booking": {
+            "provider": "Viator",
+            "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FOkinawa%2FSoutheast-Botanical-Gardens-Admission-Ticket%2Fd5614-104646P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=d0c062679bf2c72e7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=4435966&clt=TD&from=api&nt=true"
+        },
+        "offer_group": {
+            "lowest_price": "$0.00",
+            "offer_list": [
+                {
+                    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FOkinawa%2FSoutheast-Botanical-Gardens-Admission-Ticket%2Fd5614-104646P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=d0c062679bf2c72e7&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=4435966&clt=TD&from=api&nt=true",
+                    "price": "$12.92",
+                    "rounded_up_price": "$13",
+                    "offer_type": "",
+                    "title": "Southeast Botanical Gardens Admission Ticket",
+                    "product_code": "104646P1",
+                    "partner": "Viator",
+                    "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/e6/86/67.jpg",
+                    "description": null,
+                    "primary_category": "Attraction Tickets"
+                }
+            ],
+            "has_see_all_url": true,
+            "is_eligible_for_ap_list": false
+        },
+        "animal_welfare_tag": {
+            "tag_text": "Features Animals",
+            "msg_header": "This attraction features animals",
+            "msg_body": "Click below for expert advice on animal welfare in tourism.",
+            "learn_more_text": "Learn more",
+            "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+        },
+        "tags": {
+            "animal_welfare_tag": {
+                "tag_text": "Features Animals",
+                "msg_header": "This attraction features animals",
+                "msg_body": "Click below for expert advice on animal welfare in tourism.",
+                "learn_more_text": "Learn more",
+                "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+            }
+        },
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "1944750",
+        "name": "Okinawa Zoo & Museum",
+        "latitude": "26.325832",
+        "longitude": "127.80517",
+        "num_reviews": "189",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/a8/af/0c/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/a8/af/0c/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/a8/af/0c/caption.jpg",
+                    "height": "1330"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/0d/a8/af/0c/caption.jpg",
+                    "height": "681"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/a8/af/0c/caption.jpg",
+                    "height": "366"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2016-11-17T20:18:27-0500",
+            "caption": "\u5152\u7ae5\u738b\u570b\u5165\u53e3",
+            "id": "229158668",
+            "helpful_votes": "13",
+            "published_date": "2016-11-17T20:18:27-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2017",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2017"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2016",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2016"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2011",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2011_en_US-0-5.png"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2011"
+            }
+        ],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "3.479999303817749",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "2",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#2 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#2 of 24 things to do in Okinawa City",
+        "ranking": "#2 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d1944750-Reviews-Okinawa_Zoo_Museum-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d1944750-Okinawa_Zoo_Museum-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "48",
+                "name": "Zoos & Aquariums"
+            },
+            {
+                "key": "52",
+                "name": "Water & Amusement Parks"
+            },
+            {
+                "key": "57",
+                "name": "Nature & Parks"
+            },
+            {
+                "key": "61",
+                "name": "Outdoor Activities"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-933-4190",
+        "website": "http://www.okzm.jp/",
+        "address_obj": {
+            "street1": "5-7-1 Goya",
+            "street2": "",
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0021"
+        },
+        "address": "5-7-1 Goya, Okinawa City 904-0021 Okinawa Prefecture",
+        "hours": {
+            "week_ranges": [
+                [
+                    {
+                        "open_time": 570,
+                        "close_time": 1050
+                    }
+                ],
+                [
+                    {
+                        "open_time": 570,
+                        "close_time": 1050
+                    }
+                ],
+                [],
+                [
+                    {
+                        "open_time": 570,
+                        "close_time": 1050
+                    }
+                ],
+                [
+                    {
+                        "open_time": 570,
+                        "close_time": 1050
+                    }
+                ],
+                [
+                    {
+                        "open_time": 570,
+                        "close_time": 1050
+                    }
+                ],
+                [
+                    {
+                        "open_time": 570,
+                        "close_time": 1050
+                    }
+                ]
+            ],
+            "timezone": "Asia/Tokyo"
+        },
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "134",
+                "name": "Zoos"
+            },
+            {
+                "key": "98",
+                "name": "Theme Parks"
+            }
+        ],
+        "booking": {
+            "provider": "Viator",
+            "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FOkinawa%2FOkinawa-Zoo-and-Museum-Adimission-Ticket%2Fd5614-76109P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2d3c8bba1ef8886a5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=TOP&slot=1&cnt=1&geo=1944750&clt=TD&from=api&nt=true"
+        },
+        "offer_group": {
+            "lowest_price": "$0.00",
+            "offer_list": [
+                {
+                    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FOkinawa%2FOkinawa-Zoo-and-Museum-Adimission-Ticket%2Fd5614-76109P1%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=2d3c8bba1ef8886a5&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=1&cnt=1&geo=1944750&clt=TD&from=api&nt=true",
+                    "price": "$3.77",
+                    "rounded_up_price": "$4",
+                    "offer_type": "",
+                    "title": "Okinawa Zoo and Museum Admission Ticket",
+                    "product_code": "76109P1",
+                    "partner": "Viator",
+                    "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/06/91/e4/8f.jpg",
+                    "description": null,
+                    "primary_category": "Attraction Tickets"
+                },
+                {
+                    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FOkinawa%2FVacation-Photographer-in-Okinawa%2Fd5614-63511P393%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=a9c71b4b68c1114c3&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=2&cnt=1&geo=1944750&clt=TD&from=api&nt=true",
+                    "price": "$249.97",
+                    "rounded_up_price": "$250",
+                    "offer_type": "",
+                    "title": "Vacation Photographer in Okinawa",
+                    "product_code": "63511P393",
+                    "partner": "Viator",
+                    "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/a6/2e/eb.jpg",
+                    "description": null,
+                    "primary_category": "Photography Tours"
+                },
+                {
+                    "url": "https://www.tripadvisor.com/Commerce?url=https%3A%2F%2Fwww.viator.com%2Ftours%2FOkinawa%2FPrivate-Photo-Session-with-a-Local-Photographer-in-Okinawa%2Fd5614-63511P956%3Feap%3Dtripadvisor-main-11383%26aid%3Dtripen1&partnerKey=1&urlKey=9ce84c95ca6517d58&logme=true&uidparam=refid&attrc=true&Provider=Viator&area=viator_multi&slot=3&cnt=1&geo=1944750&clt=TD&from=api&nt=true",
+                    "price": "$249.97",
+                    "rounded_up_price": "$250",
+                    "offer_type": "",
+                    "title": "Private Photo Session with a Local Photographer in Okinawa",
+                    "product_code": "63511P956",
+                    "partner": "Viator",
+                    "image_url": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/c3/c4/66.jpg",
+                    "description": null,
+                    "primary_category": "Photography Tours"
+                }
+            ],
+            "has_see_all_url": true,
+            "is_eligible_for_ap_list": true
+        },
+        "animal_welfare_tag": {
+            "tag_text": "Features Animals",
+            "msg_header": "This attraction features animals",
+            "msg_body": "Click below for expert advice on animal welfare in tourism.",
+            "learn_more_text": "Learn more",
+            "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+        },
+        "tags": {
+            "animal_welfare_tag": {
+                "tag_text": "Features Animals",
+                "msg_header": "This attraction features animals",
+                "msg_body": "Click below for expert advice on animal welfare in tourism.",
+                "learn_more_text": "Learn more",
+                "education_portal_url": "https://www.tripadvisor.com/blog/animal-welfare-education-portal/"
+            }
+        },
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "8546611",
+        "name": "Plaza House Shopping Center",
+        "latitude": "26.31905",
+        "longitude": "127.79355",
+        "num_reviews": "44",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/27/a3/bc/plaza-house-shopping.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/27/a3/bc/plaza-house-shopping.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1200",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/27/a3/bc/plaza-house-shopping.jpg",
+                    "height": "628"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/27/a3/bc/plaza-house-shopping.jpg",
+                    "height": "536"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/27/a3/bc/plaza-house-shopping.jpg",
+                    "height": "288"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-06-03T04:01:20-0400",
+            "caption": "\u7c73\u8ecd\u7d71\u6cbb\u4e0b\u6642\u4ee3\u306e1954\u5e74\u5275\u696d\u306e\u8001\u8217\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30bb\u30f3\u30bf\u30fcPLAZA HOUSE\u3002\u30c0\u30a4\u30ec\u30af\u30c8\u30a4\u30f3\u30dd\u30fc\u30c8\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u306e\u30ed\u30fc\u30b8\u30e3\u30fc\u30b9\u3084\u672c\u683c\u5e83\u6771\u6599\u7406\u306e\u6708\u82d1\u98ef\u5e97\u306a\u3069\u30e6\u30cb\u30fc\u30af\u306a\u304a\u5e97\u304c\u96c6\u3046\u65bd\u8a2d\u3067\u3059\u3002",
+            "id": "321364924",
+            "helpful_votes": "5",
+            "published_date": "2018-06-03T04:01:20-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "shopping",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "3.130194664001465",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "3",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#3 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#3 of 24 things to do in Okinawa City",
+        "ranking": "#3 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "Opened in the 1950s, this was one of Okinawa's first American style malls and is a popular place to shop and meet friends. Make sure you check out the imported European accessories from Rogers.",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d8546611-Reviews-Plaza_House_Shopping_Center-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d8546611-Plaza_House_Shopping_Center-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "26",
+                "name": "Shopping"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-932-4480",
+        "website": "http://plazahouse.net/",
+        "address_obj": {
+            "street1": "3-1-12 Kubota",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0023"
+        },
+        "address": "3-1-12 Kubota, Okinawa City 904-0023 Okinawa Prefecture",
+        "hours": {
+            "week_ranges": [
+                [
+                    {
+                        "open_time": 600,
+                        "close_time": 1200
+                    }
+                ],
+                [
+                    {
+                        "open_time": 600,
+                        "close_time": 1200
+                    }
+                ],
+                [
+                    {
+                        "open_time": 600,
+                        "close_time": 1200
+                    }
+                ],
+                [
+                    {
+                        "open_time": 600,
+                        "close_time": 1200
+                    }
+                ],
+                [
+                    {
+                        "open_time": 600,
+                        "close_time": 1200
+                    }
+                ],
+                [
+                    {
+                        "open_time": 600,
+                        "close_time": 1200
+                    }
+                ],
+                [
+                    {
+                        "open_time": 600,
+                        "close_time": 1200
+                    }
+                ]
+            ],
+            "timezone": "Asia/Tokyo"
+        },
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "143",
+                "name": "Shopping Malls"
+            }
+        ],
+        "shopping_type": "freecurated"
+    },
+    {
+        "location_id": "20324406",
+        "name": "Yaeshima Park",
+        "latitude": "26.344202",
+        "longitude": "127.80147",
+        "num_reviews": "2",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/2f/4d/8c/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/2f/4d/8c/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1b/2f/4d/8c/caption.jpg",
+                    "height": "960"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/2f/4d/8c/caption.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/2f/4d/8c/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2020-03-19T19:29:35-0400",
+            "caption": "\u904a\u5177",
+            "id": "456084876",
+            "helpful_votes": "1",
+            "published_date": "2020-03-19T19:29:35-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "3.044520854949951",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "4",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#4 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#4 of 24 things to do in Okinawa City",
+        "ranking": "#4 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d20324406-Reviews-Yaeshima_Park-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d20324406-Yaeshima_Park-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "56",
+                "name": "Fun & Games"
+            },
+            {
+                "key": "57",
+                "name": "Nature & Parks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-939-1212",
+        "website": "http://okinawashiminkaikan.com/facility_info/yaeshima_park/",
+        "address_obj": {
+            "street1": "1-1 Yaejima",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0006"
+        },
+        "address": "1-1 Yaejima, Okinawa City 904-0006 Okinawa Prefecture",
+        "hours": {
+            "week_ranges": [
+                [
+                    {
+                        "open_time": 0,
+                        "close_time": 1439
+                    }
+                ],
+                [
+                    {
+                        "open_time": 0,
+                        "close_time": 1439
+                    }
+                ],
+                [
+                    {
+                        "open_time": 0,
+                        "close_time": 1439
+                    }
+                ],
+                [
+                    {
+                        "open_time": 0,
+                        "close_time": 1439
+                    }
+                ],
+                [
+                    {
+                        "open_time": 0,
+                        "close_time": 1439
+                    }
+                ],
+                [
+                    {
+                        "open_time": 0,
+                        "close_time": 1439
+                    }
+                ],
+                [
+                    {
+                        "open_time": 0,
+                        "close_time": 1439
+                    }
+                ]
+            ],
+            "timezone": "Asia/Tokyo"
+        },
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "70",
+                "name": "Parks"
+            },
+            {
+                "key": "45",
+                "name": "Playgrounds"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "19801028",
+        "name": "Akemichi Park",
+        "latitude": "26.355745",
+        "longitude": "127.82171",
+        "num_reviews": "1",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/bc/05/57/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/bc/05/57/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1a/bc/05/57/caption.jpg",
+                    "height": "960"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/bc/05/57/caption.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/bc/05/57/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2020-01-28T18:16:40-0500",
+            "caption": "\u5c55\u671b\u53f0\u304b\u3089\u3046\u308b\u307e\u5e02\u65b9\u9762\u3092\u898b\u308b",
+            "id": "448529751",
+            "helpful_votes": "0",
+            "published_date": "2020-01-28T18:16:40-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "3.024325132369995",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "5",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#5 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#5 of 24 things to do in Okinawa City",
+        "ranking": "#5 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d19801028-Reviews-Akemichi_Park-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d19801028-Akemichi_Park-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "56",
+                "name": "Fun & Games"
+            },
+            {
+                "key": "57",
+                "name": "Nature & Parks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "website": "http://www.city.okinawa.okinawa.jp/kodomo/park/1492418754/",
+        "address_obj": {
+            "street1": "1-13 Akemichi",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-2152"
+        },
+        "address": "1-13 Akemichi, Okinawa City 904-2152 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "70",
+                "name": "Parks"
+            },
+            {
+                "key": "45",
+                "name": "Playgrounds"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "8867732",
+        "name": "Awase Shrine",
+        "latitude": "26.320717",
+        "longitude": "127.83261",
+        "num_reviews": "25",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/58/7d/c5/as-seen-from-outside.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/58/7d/c5/as-seen-from-outside.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/58/7d/c5/as-seen-from-outside.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/58/7d/c5/as-seen-from-outside.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/58/7d/c5/as-seen-from-outside.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2017-02-04T17:52:57-0500",
+            "caption": "As seen from outside the fence.",
+            "id": "240680389",
+            "helpful_votes": "1",
+            "published_date": "2017-02-04T17:52:57-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "3.008139133453369",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "6",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#6 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#6 of 24 things to do in Okinawa City",
+        "ranking": "#6 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d8867732-Reviews-Awase_Shrine-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d8867732-Awase_Shrine-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "47",
+                "name": "Sights & Landmarks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-939-4501",
+        "address_obj": {
+            "street1": "2-1 Awase",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-2172"
+        },
+        "address": "2-1 Awase, Okinawa City 904-2172 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "10",
+                "name": "Sacred & Religious Sites"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "298225",
+        "ad_position": "inline1",
+        "ad_size": "8X8",
+        "doubleclick_zone": "",
+        "detail": "0",
+        "page_type": "attractions",
+        "mob_ptype": "app_attractions"
+    },
+    {
+        "location_id": "1373610",
+        "name": "Koza Gate Street",
+        "latitude": "26.336412",
+        "longitude": "127.79816",
+        "num_reviews": "53",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/f0/3a/f4/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/f0/3a/f4/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1600",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/f0/3a/f4/caption.jpg",
+                    "height": "1200"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/f0/3a/f4/caption.jpg",
+                    "height": "412"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0c/f0/3a/f4/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2016-09-13T04:24:27-0400",
+            "caption": "\u7c73\u5175\u5411\u3051\u306e\u30ca\u30a4\u30c8\u30af\u30e9\u30d6\u3002",
+            "id": "217070324",
+            "helpful_votes": "1",
+            "published_date": "2016-09-13T04:24:27-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.9979419708251953",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "7",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#7 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#7 of 24 things to do in Okinawa City",
+        "ranking": "#7 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d1373610-Reviews-Koza_Gate_Street-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d1373610-Koza_Gate_Street-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "47",
+                "name": "Sights & Landmarks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-989-5566",
+        "website": "http://kozaweb.jp",
+        "address_obj": {
+            "street1": "Chuo",
+            "street2": "Airport Street",
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0000"
+        },
+        "address": "Chuo Airport Street, Okinawa City 904-0000 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "163",
+                "name": "Points of Interest & Landmarks"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "7707136",
+        "name": "Okinawa City Tourism and Products Association",
+        "latitude": "26.33514",
+        "longitude": "127.799644",
+        "num_reviews": "25",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/45/37/71/1.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/45/37/71/1.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1478",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/45/37/71/1.jpg",
+                    "height": "1108"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/45/37/71/1.jpg",
+                    "height": "412"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/45/37/71/1.jpg",
+                    "height": "187"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2018-03-07T21:29:09-0500",
+            "caption": "\u30b3\u30b6\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30bf\u30a6\u30f3\u51851\u968e\u306b\u3066\u55b6\u696d\u4e2d",
+            "id": "306526065",
+            "helpful_votes": "1",
+            "published_date": "2018-03-07T21:29:09-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.9577689170837402",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "8",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#8 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#8 of 24 things to do in Okinawa City",
+        "ranking": "#8 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "During the day, the signs in English that line up Gate 2 Street stand out. At night, the lively sounds of American rock and Okinawan \"Sanshin\" leak out from the entertainment bars. This is Okinawa's twilight zone, where a mix of American and Okinawan culture from the post-war era gave birth to a unique culture that defines Koza, Okinawa City's downtown area. Nowadays, with other tourist spots taking the spotlight, people tend to simply drive through the area, or avoid it all together. How unfortunate! The town is spotted with so many charming shops, spots, and people! But where do you begin? That is where the Okinawa City Tourism & Promotion Association steps in. They are here to help you get started getting to know Koza! If you're curious about what \"Koza\" is all about, feel free to drop in and say hello!",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d7707136-Reviews-Okinawa_City_Tourism_and_Products_Association-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d7707136-Okinawa_City_Tourism_and_Products_Association-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "60",
+                "name": "Traveler Resources"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-989-5566",
+        "website": "http://koza.ne.jp/",
+        "email": "info@koza.ne.jp",
+        "address_obj": {
+            "street1": "1-1-1 Uechi",
+            "street2": "Koza Music Town",
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0031"
+        },
+        "address": "1-1-1 Uechi Koza Music Town, Okinawa City 904-0031 Okinawa Prefecture",
+        "hours": {
+            "week_ranges": [
+                [
+                    {
+                        "open_time": 600,
+                        "close_time": 1080
+                    }
+                ],
+                [
+                    {
+                        "open_time": 510,
+                        "close_time": 1140
+                    }
+                ],
+                [
+                    {
+                        "open_time": 510,
+                        "close_time": 1140
+                    }
+                ],
+                [
+                    {
+                        "open_time": 510,
+                        "close_time": 1140
+                    }
+                ],
+                [
+                    {
+                        "open_time": 510,
+                        "close_time": 1140
+                    }
+                ],
+                [
+                    {
+                        "open_time": 510,
+                        "close_time": 1140
+                    }
+                ],
+                [
+                    {
+                        "open_time": 600,
+                        "close_time": 1080
+                    }
+                ]
+            ],
+            "timezone": "Asia/Tokyo"
+        },
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "48",
+                "name": "Visitor Centers"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "8149293",
+        "name": "Okinawa Post-War Cultural Material Museum Histreet",
+        "latitude": "26.337486",
+        "longitude": "127.800896",
+        "num_reviews": "20",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/7d/ec/d9/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/7d/ec/d9/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/7d/ec/d9/caption.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/7d/ec/d9/caption.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/7d/ec/d9/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2017-02-21T07:20:37-0500",
+            "caption": "\u6c96\u7e04\u5e02\u6226\u5f8c\u6587\u5316\u8cc7\u6599\u5c55\u793a\u5ba4 \u30d2\u30b9\u30c8\u30ea\u30fc\u30c8",
+            "id": "243133657",
+            "helpful_votes": "0",
+            "published_date": "2017-02-21T07:20:37-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.944493532180786",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "9",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#9 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#9 of 24 things to do in Okinawa City",
+        "ranking": "#9 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d8149293-Reviews-Okinawa_Post_War_Cultural_Material_Museum_Histreet-Okinawa_City_Okinawa_Prefectur.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d8149293-Okinawa_Post_War_Cultural_Material_Museum_Histreet-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "49",
+                "name": "Museums"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-929-2922",
+        "website": "http://www.city.okinawa.okinawa.jp/sp/about/130/233",
+        "address_obj": {
+            "street1": "2-2-1 Chuo",
+            "street2": "Tasato Bldg. 1F\u30fb2F",
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0004"
+        },
+        "address": "2-2-1 Chuo Tasato Bldg. 1F\u30fb2F, Okinawa City 904-0004 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "30",
+                "name": "History Museums"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "0",
+        "name": "Gift & Specialty Shops",
+        "latitude": "26.326517",
+        "longitude": "127.80903",
+        "num_reviews": "126",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/fa/45/e0/photo0jpg.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/fa/45/e0/photo0jpg.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1152",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/fa/45/e0/photo0jpg.jpg",
+                    "height": "2048"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-p/0d/fa/45/e0/photo0jpg.jpg",
+                    "height": "978"
+                },
+                "medium": {
+                    "width": "253",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/fa/45/e0/photo0jpg.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2016-12-27T08:16:41-0500",
+            "caption": "",
+            "id": "234505696",
+            "helpful_votes": "1",
+            "published_date": "2016-12-27T08:16:41-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attractions",
+        "write_review": "https://www.tripadvisor.com",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "rollup",
+            "name": "Rollup"
+        },
+        "subcategory": [
+            {
+                "key": "26",
+                "name": "Shopping"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+            "street1": "6-7 Ageda",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0012"
+        },
+        "address": "",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "144",
+                "name": "Gift & Specialty Shops"
+            }
+        ],
+        "rollup_category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "rollup_contains_bookable": false,
+        "rollup_count": 11
+    },
+    {
+        "location_id": "7708015",
+        "name": "Okinawa City Hall Observation Decks",
+        "latitude": "26.33446",
+        "longitude": "127.805626",
+        "num_reviews": "17",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/64/90/36/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/64/90/36/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/64/90/36/caption.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/64/90/36/caption.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/64/90/36/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2015-11-01T01:05:42-0500",
+            "caption": "\u6ce1\u702c\u65b9\u9762",
+            "id": "157585462",
+            "helpful_votes": "0",
+            "published_date": "2015-11-01T01:05:42-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.8785881996154785",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "10",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#10 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#10 of 24 things to do in Okinawa City",
+        "ranking": "#10 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d7708015-Reviews-Okinawa_City_Hall_Observation_Decks-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d7708015-Okinawa_City_Hall_Observation_Decks-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "47",
+                "name": "Sights & Landmarks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-939-1212",
+        "website": "http://www.koza.ne.jp/old/koza_index/kozawatching/watchtower/index.html",
+        "address_obj": {
+            "street1": "26-1 Nakasonecho",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0014"
+        },
+        "address": "26-1 Nakasonecho, Okinawa City 904-0014 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "39",
+                "name": "Observation Decks & Towers"
+            },
+            {
+                "key": "15",
+                "name": "Government Buildings"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "11867516",
+        "name": "Kozashinkin Stadium",
+        "latitude": "26.332285",
+        "longitude": "127.79029",
+        "num_reviews": "10",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/8e/e4/84/caption.jpg",
+                    "height": "141"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/8e/e4/84/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/8e/e4/84/caption.jpg",
+                    "height": "724"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/14/8e/e4/84/caption.jpg",
+                    "height": "579"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/8e/e4/84/caption.jpg",
+                    "height": "311"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-09-10T09:21:39-0400",
+            "caption": "",
+            "id": "344908932",
+            "helpful_votes": "2",
+            "published_date": "2018-09-10T09:21:39-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.8734710216522217",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "11",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#11 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#11 of 24 things to do in Okinawa City",
+        "ranking": "#11 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d11867516-Reviews-Kozashinkin_Stadium-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d11867516-Kozashinkin_Stadium-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "47",
+                "name": "Sights & Landmarks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-932-0777",
+        "website": "http://www.kozapa-osi.jp/",
+        "address_obj": {
+            "street1": "2-1-1 Moromizato",
+            "street2": "Koza Sports Park",
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0032"
+        },
+        "address": "2-1-1 Moromizato Koza Sports Park, Okinawa City 904-0032 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "120",
+                "name": "Arenas & Stadiums"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "4178259",
+        "name": "Hija River",
+        "latitude": "26.361692",
+        "longitude": "127.74435",
+        "num_reviews": "15",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/38/6e/f2/photo2jpg.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/38/6e/f2/photo2jpg.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/38/6e/f2/photo2jpg.jpg",
+                    "height": "1280"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-p/13/38/6e/f2/photo2jpg.jpg",
+                    "height": "550"
+                },
+                "medium": {
+                    "width": "450",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/38/6e/f2/photo2jpg.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-06-09T02:04:25-0400",
+            "caption": "",
+            "id": "322465522",
+            "helpful_votes": "1",
+            "published_date": "2018-06-09T02:04:25-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.87105393409729",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "12",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#12 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#12 of 24 things to do in Okinawa City",
+        "ranking": "#12 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d4178259-Reviews-Hija_River-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d4178259-Hija_River-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "57",
+                "name": "Nature & Parks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "website": "http://www.pref.okinawa.jp/site/doboku/kasen/kanri/hijyagawa.html",
+        "address_obj": {
+            "street1": null,
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0021"
+        },
+        "address": "Okinawa City 904-0021 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "162",
+                "name": "Bodies of Water"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "4024012",
+        "name": "Chubunouren Market",
+        "latitude": "26.34053",
+        "longitude": "127.80948",
+        "num_reviews": "15",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/d1/1d/18/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/d1/1d/18/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/d1/1d/18/caption.jpg",
+                    "height": "1333"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/d1/1d/18/caption.jpg",
+                    "height": "682"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/d1/1d/18/caption.jpg",
+                    "height": "367"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2018-01-19T17:19:07-0500",
+            "caption": "",
+            "id": "298917144",
+            "helpful_votes": "0",
+            "published_date": "2018-01-19T17:19:07-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.8392395973205566",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "13",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#13 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#13 of 24 things to do in Okinawa City",
+        "ranking": "#13 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d4024012-Reviews-Chubunouren_Market-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d4024012-Chubunouren_Market-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "26",
+                "name": "Shopping"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "website": "http://kozaweb.jp/venue/detail.html?&sp=true&category=2&id=74",
+        "address_obj": {
+            "street1": "1-24-1 Sumiyoshi",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0003"
+        },
+        "address": "1-24-1 Sumiyoshi, Okinawa City 904-0003 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "142",
+                "name": "Flea & Street Markets"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "298225",
+        "ad_position": "inline2",
+        "ad_size": "8X8",
+        "doubleclick_zone": "",
+        "detail": "0",
+        "page_type": "attractions",
+        "mob_ptype": "app_attractions"
+    },
+    {
+        "location_id": "0",
+        "name": "Other Outdoor Activities",
+        "latitude": "26.310755",
+        "longitude": "127.81994",
+        "num_reviews": "64",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/a7/35/62/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/a7/35/62/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/a7/35/62/caption.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/a7/35/62/caption.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/a7/35/62/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2018-04-15T22:50:55-0400",
+            "caption": "\u904a\u6a02\u5834",
+            "id": "312948066",
+            "helpful_votes": "1",
+            "published_date": "2018-04-15T22:50:55-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attractions",
+        "write_review": "https://www.tripadvisor.com",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "rollup",
+            "name": "Rollup"
+        },
+        "subcategory": [
+            {
+                "key": "61",
+                "name": "Outdoor Activities"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+            "street1": "5-3-1 Hiyagon",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-2173"
+        },
+        "address": "",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "263",
+                "name": "Other Outdoor Activities"
+            }
+        ],
+        "rollup_category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "rollup_contains_bookable": false,
+        "rollup_count": 1
+    },
+    {
+        "location_id": "12954462",
+        "name": "Okinawa City Music Museum Ongakumura",
+        "latitude": "26.336594",
+        "longitude": "127.80012",
+        "num_reviews": "5",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/10/e2/ee/64/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/e2/ee/64/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/e2/ee/64/caption.jpg",
+                    "height": "768"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/e2/ee/64/caption.jpg",
+                    "height": "412"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/e2/ee/64/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2017-10-06T07:18:17-0400",
+            "caption": "\u5916\u89b3\u3067\u3059",
+            "id": "283307620",
+            "helpful_votes": "3",
+            "published_date": "2017-10-06T07:18:17-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.7817211151123047",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "14",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#14 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#14 of 24 things to do in Okinawa City",
+        "ranking": "#14 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d12954462-Reviews-Okinawa_City_Music_Museum_Ongakumura-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d12954462-Okinawa_City_Music_Museum_Ongakumura-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "49",
+                "name": "Museums"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-923-3224",
+        "website": "https://ja-jp.facebook.com/%E6%B2%96%E7%B8%84%E5%B8%82%E9%9F%B3%E6%A5%BD%E8%B3%87%E6%96%99%E9%A4%A8%E3%81%8A%E3%82%93%E3%81%8C%E3%81%8F%E6%9D%91-774162005971321/",
+        "address_obj": {
+            "street1": "1-7-3 Chuo",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0004"
+        },
+        "address": "1-7-3 Chuo, Okinawa City 904-0004 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "161",
+                "name": "Specialty Museums"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "13389845",
+        "name": "Sun City",
+        "latitude": "26.336155",
+        "longitude": "127.79976",
+        "num_reviews": "9",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/d0/32/7d/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/d0/32/7d/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/d0/32/7d/caption.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/d0/32/7d/caption.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/d0/32/7d/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-01-19T07:56:29-0500",
+            "caption": "",
+            "id": "298857085",
+            "helpful_votes": "0",
+            "published_date": "2018-01-19T07:56:29-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.773531675338745",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "15",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#15 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#15 of 24 things to do in Okinawa City",
+        "ranking": "#15 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d13389845-Reviews-Sun_City-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d13389845-Sun_City-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "47",
+                "name": "Sights & Landmarks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "website": "http://www.city.okinawa.okinawa.jp/jigyousya/413/429",
+        "address_obj": {
+            "street1": "1 Chuo",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0004"
+        },
+        "address": "1 Chuo, Okinawa City 904-0004 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "163",
+                "name": "Points of Interest & Landmarks"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "7333761",
+        "name": "Goza Gintengai",
+        "latitude": "26.338284",
+        "longitude": "127.81499",
+        "num_reviews": "32",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/4d/55/d0/caption.jpg",
+                    "height": "142"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/4d/55/d0/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/4d/55/d0/caption.jpg",
+                    "height": "1132"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/4d/55/d0/caption.jpg",
+                    "height": "579"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/4d/55/d0/caption.jpg",
+                    "height": "311"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2017-11-18T00:43:28-0500",
+            "caption": "",
+            "id": "290280912",
+            "helpful_votes": "1",
+            "published_date": "2017-11-18T00:43:28-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.7733421325683594",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "16",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#16 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#16 of 24 things to do in Okinawa City",
+        "ranking": "#16 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d7333761-Reviews-Goza_Gintengai-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d7333761-Goza_Gintengai-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "47",
+                "name": "Sights & Landmarks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+            "street1": "Aroiung Goza Crossing",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": null
+        },
+        "address": "Aroiung Goza Crossing, Okinawa City Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "163",
+                "name": "Points of Interest & Landmarks"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "8149036",
+        "name": "The Site of Chibana Castle",
+        "latitude": "26.363455",
+        "longitude": "127.80988",
+        "num_reviews": "11",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/2f/2f/01/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/2f/2f/01/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1125",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/2f/2f/01/caption.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-p/0d/2f/2f/01/caption.jpg",
+                    "height": "733"
+                },
+                "medium": {
+                    "width": "338",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/2f/2f/01/caption.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2016-10-03T08:55:26-0400",
+            "caption": "\u4e0a\u4e4b\u6bbf\u6bdb",
+            "id": "221196033",
+            "helpful_votes": "0",
+            "published_date": "2016-10-03T08:55:26-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.751711368560791",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "17",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#17 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#17 of 24 things to do in Okinawa City",
+        "ranking": "#17 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d8149036-Reviews-The_Site_of_Chibana_Castle-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d8149036-The_Site_of_Chibana_Castle-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "47",
+                "name": "Sights & Landmarks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-939-1212",
+        "website": "http://www.okinawastory.jp/spot/20220900",
+        "address_obj": {
+            "street1": "5-25-20 Chibana",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-2143"
+        },
+        "address": "5-25-20 Chibana, Okinawa City 904-2143 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "17",
+                "name": "Historic Sites"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "13389839",
+        "name": "Ichibangai Shotengai",
+        "latitude": "26.33667",
+        "longitude": "127.800896",
+        "num_reviews": "9",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/d0/34/da/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/d0/34/da/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/d0/34/da/caption.jpg",
+                    "height": "1500"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/d0/34/da/caption.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/11/d0/34/da/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-01-19T08:00:47-0500",
+            "caption": "",
+            "id": "298857690",
+            "helpful_votes": "1",
+            "published_date": "2018-01-19T08:00:47-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.751039743423462",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "18",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#18 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#18 of 24 things to do in Okinawa City",
+        "ranking": "#18 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d13389839-Reviews-Ichibangai_Shotengai-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d13389839-Ichibangai_Shotengai-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "47",
+                "name": "Sights & Landmarks"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "website": "https://www.city.okinawa.okinawa.jp/jigyousya/413/430",
+        "address_obj": {
+            "street1": "1 Chuo",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0004"
+        },
+        "address": "1 Chuo, Okinawa City 904-0004 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "163",
+                "name": "Points of Interest & Landmarks"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "13019574",
+        "name": "Okinawa City Local Museum",
+        "latitude": "26.331799",
+        "longitude": "127.79506",
+        "num_reviews": "3",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.7502381801605225",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "19",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#19 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#19 of 24 things to do in Okinawa City",
+        "ranking": "#19 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d13019574-Reviews-Okinawa_City_Local_Museum-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d13019574-Okinawa_City_Local_Museum-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "49",
+                "name": "Museums"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-932-6882",
+        "address_obj": {
+            "street1": "2-19-6 Uechi",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0031"
+        },
+        "address": "2-19-6 Uechi, Okinawa City 904-0031 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "161",
+                "name": "Specialty Museums"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "13011310",
+        "name": "Arcade",
+        "latitude": "26.336098",
+        "longitude": "127.80022",
+        "num_reviews": "5",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/69/1a/fe/photo1jpg.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/69/1a/fe/photo1jpg.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/69/1a/fe/photo1jpg.jpg",
+                    "height": "1365"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-p/16/69/1a/fe/photo1jpg.jpg",
+                    "height": "733"
+                },
+                "medium": {
+                    "width": "338",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/69/1a/fe/photo1jpg.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-02-09T18:59:03-0500",
+            "caption": "",
+            "id": "375986942",
+            "helpful_votes": "0",
+            "published_date": "2019-02-09T18:59:03-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.730802297592163",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "20",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#20 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#20 of 24 things to do in Okinawa City",
+        "ranking": "#20 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d13011310-Reviews-Arcade-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d13011310-Arcade-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "26",
+                "name": "Shopping"
+            },
+            {
+                "key": "49",
+                "name": "Museums"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-989-7176",
+        "website": "http://skgwt6v.fool.jp/",
+        "address_obj": {
+            "street1": "1-2-3 Chuo",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0004"
+        },
+        "address": "1-2-3 Chuo, Okinawa City 904-0004 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "1",
+                "name": "Art Galleries"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "298225",
+        "ad_position": "inline3",
+        "ad_size": "8X8",
+        "doubleclick_zone": "",
+        "detail": "0",
+        "page_type": "attractions",
+        "mob_ptype": "app_attractions"
+    },
+    {
+        "location_id": "13614921",
+        "name": "Ashibina",
+        "latitude": "26.34084",
+        "longitude": "127.79839",
+        "num_reviews": "1",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "awards": [],
+        "location_subtype": "none",
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "preferred_map_engine": "default",
+        "raw_ranking": "2.7300000190734863",
+        "ranking_geo": "Okinawa City",
+        "ranking_geo_id": "298225",
+        "ranking_position": "21",
+        "ranking_denominator": "24",
+        "ranking_category": "attraction",
+        "ranking_subcategory": "#21 of 24 things to do in Okinawa City",
+        "subcategory_ranking": "#21 of 24 things to do in Okinawa City",
+        "ranking": "#21 of 24 things to do in Okinawa City",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attraction_Review-g298225-d13614921-Reviews-Ashibina-Okinawa_City_Okinawa_Prefecture.html",
+        "write_review": "https://www.tripadvisor.com/UserReview-g298225-d13614921-Ashibina-Okinawa_City_Okinawa_Prefecture.html",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "subcategory": [
+            {
+                "key": "58",
+                "name": "Concerts & Shows"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "phone": "+81 98-934-8487",
+        "website": "http://koza-ashibina.com/",
+        "address_obj": {
+            "street1": "2-28-1 Chuo",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0004"
+        },
+        "address": "2-28-1 Chuo, Okinawa City 904-0004 Okinawa Prefecture",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "116",
+                "name": "Theaters"
+            }
+        ],
+        "shopping_type": "none"
+    },
+    {
+        "location_id": "0",
+        "name": "Bars & Clubs",
+        "latitude": "26.33612",
+        "longitude": "127.79926",
+        "num_reviews": "20",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/10/c2/0f/78/caption.jpg",
+                    "height": "141"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/10/c2/0f/78/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1920",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/10/c2/0f/78/caption.jpg",
+                    "height": "1080"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/10/c2/0f/78/caption.jpg",
+                    "height": "576"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/c2/0f/78/caption.jpg",
+                    "height": "309"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2017-09-23T21:18:22-0400",
+            "caption": "\u3053\u3053\u306f\u30a2\u30e1\u30ea\u30ab\u3002",
+            "id": "281153400",
+            "helpful_votes": "15",
+            "published_date": "2017-09-23T21:18:22-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attractions",
+        "write_review": "https://www.tripadvisor.com",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "rollup",
+            "name": "Rollup"
+        },
+        "subcategory": [
+            {
+                "key": "20",
+                "name": "Nightlife"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+            "street1": "1-10-3 Chuo",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0004"
+        },
+        "address": "",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "99",
+                "name": "Bars & Clubs"
+            }
+        ],
+        "rollup_category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "rollup_contains_bookable": false,
+        "rollup_count": 14
+    },
+    {
+        "location_id": "0",
+        "name": "Performances",
+        "latitude": "26.335304",
+        "longitude": "127.79953",
+        "num_reviews": "46",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/34/37/47/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/34/37/47/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "640",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/34/37/47/caption.jpg",
+                    "height": "480"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/34/37/47/caption.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/34/37/47/caption.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2018-06-07T10:41:30-0400",
+            "caption": "\u660e\u308b\u3044\u3051\u3069\u5bc2\u3057\u3044",
+            "id": "322189127",
+            "helpful_votes": "1",
+            "published_date": "2018-06-07T10:41:30-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attractions",
+        "write_review": "https://www.tripadvisor.com",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "rollup",
+            "name": "Rollup"
+        },
+        "subcategory": [
+            {
+                "key": "58",
+                "name": "Concerts & Shows"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+            "street1": "1-1-1 Uechi",
+            "street2": "Koza Music Town 3F",
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "904-0031"
+        },
+        "address": "",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "111",
+                "name": "Performances"
+            }
+        ],
+        "rollup_category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "rollup_contains_bookable": false,
+        "rollup_count": 1
+    },
+    {
+        "location_id": "0",
+        "name": "Day Trips",
+        "num_reviews": "1",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/7a/9b/a5/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/7a/9b/a5/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/7a/9b/a5/caption.jpg",
+                    "height": "1280"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-p/17/7a/9b/a5/caption.jpg",
+                    "height": "550"
+                },
+                "medium": {
+                    "width": "450",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/7a/9b/a5/caption.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-05-11T09:16:31-0400",
+            "caption": "",
+            "id": "393911205",
+            "helpful_votes": "0",
+            "published_date": "2019-05-11T09:16:31-0400",
+            "user": null
+        },
+        "awards": [],
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attractions",
+        "write_review": "https://www.tripadvisor.com",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "rollup",
+            "name": "Rollup"
+        },
+        "subcategory": [
+            {
+                "key": "42",
+                "name": "Tours"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+            "street1": null,
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": null
+        },
+        "address": "",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "287",
+                "name": "Day Trips"
+            }
+        ],
+        "rollup_category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "rollup_contains_bookable": true,
+        "booking": {
+            "provider": "Viator",
+            "url": "https://www.tripadvisor.com"
+        },
+        "offer_group": {
+            "lowest_price": "$76.57",
+            "has_see_all_url": true,
+            "is_eligible_for_ap_list": false
+        },
+        "rollup_count": 3
+    },
+    {
+        "location_id": "0",
+        "name": "Bar, Club & Pub Tours",
+        "num_reviews": "1",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/e7/09/c0/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/e7/09/c0/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/e7/09/c0/caption.jpg",
+                    "height": "1279"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/e7/09/c0/caption.jpg",
+                    "height": "1023"
+                },
+                "medium": {
+                    "width": "450",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/e7/09/c0/caption.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-03-22T07:21:01-0400",
+            "caption": "",
+            "id": "384240064",
+            "helpful_votes": "0",
+            "published_date": "2019-03-22T07:21:01-0400",
+            "user": null
+        },
+        "awards": [],
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attractions",
+        "write_review": "https://www.tripadvisor.com",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "rollup",
+            "name": "Rollup"
+        },
+        "subcategory": [
+            {
+                "key": "20",
+                "name": "Nightlife"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+            "street1": null,
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": null
+        },
+        "address": "",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "240",
+                "name": "Bar, Club & Pub Tours"
+            }
+        ],
+        "rollup_category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "rollup_contains_bookable": true,
+        "booking": {
+            "provider": "Viator",
+            "url": "https://www.tripadvisor.com"
+        },
+        "offer_group": {
+            "lowest_price": "$76.57",
+            "has_see_all_url": true,
+            "is_eligible_for_ap_list": false
+        },
+        "rollup_count": 1
+    },
+    {
+        "location_id": "0",
+        "name": "Bike Tours",
+        "num_reviews": "1",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/e7/09/c0/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/e7/09/c0/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/e7/09/c0/caption.jpg",
+                    "height": "1279"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/e7/09/c0/caption.jpg",
+                    "height": "1023"
+                },
+                "medium": {
+                    "width": "450",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/e7/09/c0/caption.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-03-22T07:21:01-0400",
+            "caption": "",
+            "id": "384240064",
+            "helpful_votes": "0",
+            "published_date": "2019-03-22T07:21:01-0400",
+            "user": null
+        },
+        "awards": [],
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attractions",
+        "write_review": "https://www.tripadvisor.com",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "rollup",
+            "name": "Rollup"
+        },
+        "subcategory": [
+            {
+                "key": "61",
+                "name": "Outdoor Activities"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+            "street1": "Floor,6 A FuQian Mansion, No.618-620 JieFang North Road,District,GuangDong China",
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": "510000"
+        },
+        "address": "",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "214",
+                "name": "Bike Tours"
+            }
+        ],
+        "rollup_category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "rollup_contains_bookable": true,
+        "booking": {
+            "provider": "Viator",
+            "url": "https://www.tripadvisor.com"
+        },
+        "offer_group": {
+            "lowest_price": "$76.57",
+            "has_see_all_url": true,
+            "is_eligible_for_ap_list": false
+        },
+        "rollup_count": 2
+    },
+    {
+        "location_id": "0",
+        "name": "Food Tours",
+        "num_reviews": "1",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/7a/9b/a5/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/7a/9b/a5/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/7a/9b/a5/caption.jpg",
+                    "height": "1280"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-p/17/7a/9b/a5/caption.jpg",
+                    "height": "550"
+                },
+                "medium": {
+                    "width": "450",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/7a/9b/a5/caption.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-05-11T09:16:31-0400",
+            "caption": "",
+            "id": "393911205",
+            "helpful_votes": "0",
+            "published_date": "2019-05-11T09:16:31-0400",
+            "user": null
+        },
+        "awards": [],
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attractions",
+        "write_review": "https://www.tripadvisor.com",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "rollup",
+            "name": "Rollup"
+        },
+        "subcategory": [
+            {
+                "key": "42",
+                "name": "Tours"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+            "street1": null,
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": null
+        },
+        "address": "",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "204",
+                "name": "Food Tours"
+            }
+        ],
+        "rollup_category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "rollup_contains_bookable": true,
+        "booking": {
+            "provider": "Viator",
+            "url": "https://www.tripadvisor.com"
+        },
+        "offer_group": {
+            "lowest_price": "$76.57",
+            "has_see_all_url": true,
+            "is_eligible_for_ap_list": false
+        },
+        "rollup_count": 2
+    },
+    {
+        "location_id": "0",
+        "name": "Cooking Classes",
+        "num_reviews": "1",
+        "timezone": "Asia/Tokyo",
+        "location_string": "Okinawa City, Okinawa Prefecture",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/e7/09/c0/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/e7/09/c0/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/e7/09/c0/caption.jpg",
+                    "height": "1279"
+                },
+                "large": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/16/e7/09/c0/caption.jpg",
+                    "height": "1023"
+                },
+                "medium": {
+                    "width": "450",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/e7/09/c0/caption.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-03-22T07:21:01-0400",
+            "caption": "",
+            "id": "384240064",
+            "helpful_votes": "0",
+            "published_date": "2019-03-22T07:21:01-0400",
+            "user": null
+        },
+        "awards": [],
+        "doubleclick_zone": "as.japan.kyushu_okinawa.okinawa",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "https://www.tripadvisor.com/Attractions",
+        "write_review": "https://www.tripadvisor.com",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "city",
+                        "name": "City"
+                    }
+                ],
+                "name": "Okinawa City",
+                "abbrv": null,
+                "location_id": "298225"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Okinawa Prefecture",
+                "abbrv": null,
+                "location_id": "298221"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "Japan",
+                "abbrv": null,
+                "location_id": "294232"
+            }
+        ],
+        "category": {
+            "key": "rollup",
+            "name": "Rollup"
+        },
+        "subcategory": [
+            {
+                "key": "36",
+                "name": "Food & Drink"
+            }
+        ],
+        "parent_display_name": "Okinawa City",
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+            "street1": null,
+            "street2": null,
+            "city": "Okinawa City",
+            "state": "Okinawa Prefecture",
+            "country": "Japan",
+            "postalcode": null
+        },
+        "address": "",
+        "is_candidate_for_contact_info_suppression": false,
+        "subtype": [
+            {
+                "key": "203",
+                "name": "Cooking Classes"
+            }
+        ],
+        "rollup_category": {
+            "key": "attraction",
+            "name": "Attraction"
+        },
+        "rollup_contains_bookable": true,
+        "booking": {
+            "provider": "Viator",
+            "url": "https://www.tripadvisor.com"
+        },
+        "offer_group": {
+            "lowest_price": "$76.57",
+            "has_see_all_url": true,
+            "is_eligible_for_ap_list": false
+        },
+        "rollup_count": 1
+    }
+]

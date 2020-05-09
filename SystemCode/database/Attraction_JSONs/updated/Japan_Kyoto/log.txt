@@ -1,0 +1,5 @@
+Restaurants.json created with offset 0 to 1 (entries 0 to 29) at Mon May  4 08:49:59 2020.
+Restaurants.json updated with offset 1 to 20 (entries 30 to 599) at Mon May  4 08:52:59 2020.
+Restaurants.json updated with offset 20 to 50 (entries 600 to 1499) at Mon May  4 08:56:39 2020.
+Restaurants.json updated with offset 50 to 75 (entries 1500 to 2249) at Mon May  4 09:01:05 2020.
+Restaurants.json updated with offset 75 to 100 (entries 2250 to 2999) at Mon May  4 09:05:44 2020.

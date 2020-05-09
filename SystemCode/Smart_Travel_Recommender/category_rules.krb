@@ -1,0 +1,193 @@
+# TravelCategory.krb
+
+# This the the rule base to reason the top travel categories from preferences
+
+#Categories = {"sights" : "Sights & Landmarks",			#0         
+#              "dining" : "Dining (Food & Drinks)",      #1
+#               "shopping" : "Shopping",                	#2
+#               "outdoor" : "Outdoor Activities",       	#3
+#               "cultural" : "Cultural Activities",     	#4
+#               "relaxation" : "Relaxation",            	#5
+#               "nightlife" : "Nightlife",               #6
+#               "nature" : "Nature"}						#7
+
+
+#Question = {"1" : "age20(a), age30(b), age40(c), age50(d)",
+#			 "2" : "male(a), female(b)",
+#			 "3" : "Board Games(a) vs Having Dinner(b)",
+#			 "4" : "Learning Guitar(a) vs Watch Play(b)",
+#			 "5" : "Farmstay(a) vs People Watching(b)",
+#			 "6" : "Intellectual Debate(a) vs Reading Classic(b)",
+#			 "7" : "Packing Day(a) vs Having Time(b)",
+#			 "8" : "Getting Gift(a) vs Spending Time(b)"
+#			 "9" : "Volunteering(a) vs Donating(b)",
+#			 "10": "Fixed Schedule(a) vs Flexible Schedule(b)",
+#			 "11": "Famous Surfer(a) vs Famous Artist(b)"
+#			 "12": "Sunset Yoga(a) vs Cooking for Family(b)",
+#			 "13": "Partying(a) vs Shopping(b)"
+
+
+
+ordered_rule0
+	use top2(sights, nature)
+	when
+		answer.question(1, d)
+		answer.question(2, b)
+		answer.question(4, b)
+		answer.question(11, b)
+
+
+ordered_rule1
+	use top2(sights, nature)
+	when
+		answer.question(1, d)
+		answer.question(4, a)
+		answer.question(6, b)
+
+
+ordered_rule2
+	use top2(sights, dining)
+	when
+		answer.question(1, d)
+		answer.question(5, b)
+		answer.question(9, a)
+
+
+ordered_rule3
+	use top2(relaxation, nature)
+	when
+		answer.question(1, b)
+		answer.question(6, b)
+
+
+ordered_rule4
+	use top2(outdoor, nature)
+	when
+		answer.question(1, $num)
+		$num in ('a', 'b', 'c')
+		answer.question(8, a)
+		answer.question(13, b)
+
+
+ordered_rule5
+	use top2(sights, dining)
+	when
+		answer.question(1, b)
+		answer.question(4, a)
+		answer.question(11, b)
+
+
+ordered_rule6
+	use top2(relaxation, nature)
+	when
+		answer.question(1, $num)
+		$num in ('b', 'c', 'd')
+		answer.question(10, b)
+
+
+ordered_rule7
+	use top2(sights, dining)
+	when
+		answer.question(6, b)
+		answer.question(7, b)
+		answer.question(9, a)
+
+
+ordered_rule8
+	use top2(sights, cultural)
+	when
+		answer.question(1, $num)
+		$num in ('b', 'c', 'd')
+		answer.question(2, a)
+		answer.question(3, a)
+
+
+ordered_rule9
+	use top2(outdoor, nature)
+	when
+		answer.question(2, b)
+		answer.question(3, a)
+		answer.question(6, b)
+
+
+ordered_rule10
+	use top2(sights, nature)
+	when
+		answer.question(7, a)
+		answer.question(13,a)
+
+
+ordered_rule11
+	use top2(sights, relaxation)
+	when
+		answer.question(4, b)
+		answer.question(6, b)
+		answer.question(12, b)
+
+
+ordered_rule12
+	use top2(dining, relaxation)
+	when
+		answer.question(5, b)
+		answer.question(10, b)
+
+
+ordered_rule13
+	use top2(outdoor, nature)
+	when
+		answer.question(6, b)
+
+
+ordered_rule14
+	use top2(sights, nature)
+	when
+		answer.question(1, $num)
+		$num in ('a', 'c', 'd')
+		answer.question(3, b)
+		answer.question(7, a)
+		
+
+ordered_rule15
+	use top2(dining, nature)
+	when
+		answer.question(7, a)
+		answer.question(10, a)
+
+
+ordered_rule16
+	use top2(relaxation, nature)
+	when
+		answer.question(4, a)
+		answer.question(13, b)
+
+
+ordered_rule17
+	use top2(sights, relaxation)
+	when
+		answer.question(1, $num)
+		$num in ('a', 'b', 'c')
+		answer.question(7, b)
+		answer.question(13, b)
+
+
+ordered_rule18
+	use top2(dining, relaxation)
+	when
+		answer.question(2, a)
+		answer.question(9, b)
+
+
+ordered_rule19
+	use top2(sights, outdoor)
+	when
+		answer.question(2, b)
+
+
+ordered_rule20
+	use top2(dining, relaxation)
+	when
+		answer.question(1, a)
+
+
+ordered_rule21
+	use top2(sights, nature)

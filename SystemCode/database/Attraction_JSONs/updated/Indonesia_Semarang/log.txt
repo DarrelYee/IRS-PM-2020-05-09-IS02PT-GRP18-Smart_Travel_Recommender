@@ -1,0 +1,4 @@
+Attractions.json created with offset 0 to 1 (entries 0 to 29) at Fri Apr 10 14:59:39 2020.
+Attractions.json updated with offset 1 to 10 (entries 30 to 299) at Fri Apr 10 15:01:58 2020.
+Restaurants.json created with offset 0 to 1 (entries 0 to 29) at Fri Apr 10 15:02:22 2020.
+Restaurants.json updated with offset 1 to 30 (entries 30 to 899) at Fri Apr 10 15:04:18 2020.
