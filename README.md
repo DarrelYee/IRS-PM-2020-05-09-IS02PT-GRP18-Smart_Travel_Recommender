@@ -25,4 +25,4 @@ For a full copy of the user guide, please refer to **Appendix III** in the group
 
 
 # Section 6: Group Report
-Please refer to XXX folder in the repository.
+Please refer to ProjectReport folder in the repository.
