@@ -17,7 +17,7 @@ from sklearn import metrics
 from collections import Counter
 
 dir_main = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.append(os.path.join(dir_main, "google_custom_search"))
+sys.path.append(os.path.join(dir_main, "custom_search"))
 
 import custom_search_V3 as csV3
 

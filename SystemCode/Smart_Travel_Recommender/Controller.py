@@ -5,7 +5,7 @@ from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor, as_compl
 from threading import Thread
 from time import sleep, perf_counter
 from queue import Queue
-    
+
 from View import *
 from Activity import *
 from Question import *
@@ -16,7 +16,7 @@ import numpy as np
 import os, sys
 dir_main = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(os.path.join(dir_main, "Smart_Travel_Recommender"))
-sys.path.append(os.path.join(dir_main, "google_custom_search"))
+sys.path.append(os.path.join(dir_main, "custom_search"))
 sys.path.append(os.path.join(dir_main, "word_relation"))
 sys.path.append(os.path.join(dir_main, "training_data_set"))
 sys.path.append(os.path.join(dir_main, "database"))
@@ -205,7 +205,7 @@ class Controller:
             selector_obj = Selector.city_selector()
             throwaway, self.cities_and_activities_results_list = selector_obj.find_matching_city(self.user_preferences)
             self.show_offline_result()
-            
+
 
     def show_offline_result(self):
         current_city_and_activities = self.cities_and_activities_results_list[0]
