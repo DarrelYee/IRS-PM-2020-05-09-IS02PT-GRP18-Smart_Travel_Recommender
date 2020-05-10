@@ -17,7 +17,7 @@ Cheng Kok Cheong | A0038791W | Attraction Search Algorithms
 
 
 # Section 4: Video
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/SZuKeKWh9Ho/0.jpg)](http://www.youtube.com/watch?v=SZuKeKWh9Ho "Smart Travel Recommender")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/LU1biGeDugQ/0.jpg)](http://www.youtube.com/watch?v=LU1biGeDugQ "Smart Travel Recommender")
 
 
 # Section 5: User Guide
