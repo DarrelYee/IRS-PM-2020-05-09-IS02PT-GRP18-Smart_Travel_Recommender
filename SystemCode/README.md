@@ -4,7 +4,7 @@ MTech IS Machine Reasoning project repository for Darrel, KC, Jieshen, and Wei C
 Installation instructions:
 1. Download and extract github files into folder of choice
 2. Install Python 3.8.2 (code should work with 3.7 or 3.8)
-3. Install required packages by running "install.bat" as Administrator
+3. Install required packages by running "install.bat"
 
 Starting application:
 1. Start Smart Travel Recommender by running "run.bat"
