@@ -10,6 +10,9 @@ MTech IS Machine Reasoning project repository for Darrel, KC, Jieshen, and Wei C
 1. Start Smart Travel Recommender by running "run.bat"
 
 
+
+
+
 # Running Application Samples
 ## Sample 1 (Run "run_sample1.bat"):
 
